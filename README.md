@@ -1,5 +1,5 @@
 ## Olá!👋
-- 🔭 Estudante de programação com foco em front-end
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas. Focando em de programação web.
 - 🌱 Estou aprendendo JavaScript 
 - 😄 Pronomes: ela/dela
 ##
