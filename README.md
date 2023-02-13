@@ -1,5 +1,5 @@
 ## Olá!👋
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas. Focando em de programação web.
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas. 
 - 🌱 Estou aprendendo JavaScript 
 - 😄 Pronomes: ela/dela
 ##
