@@ -1,6 +1,7 @@
 ## Olá!👋
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas. 
-- 🌱 Estou aprendendo JavaScript 
+- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou aprendendo C#
 - 😄 Pronomes: ela/dela
 ##
 
